@@ -110,9 +110,11 @@ hr{
     color: #AEAEAE;
 }
 .course-duration {
+    padding-left: 5%;
+    padding-right: 5%;
     background-color: #FEE5DF;
     color: #ED6B4F;
-    border-radius: 10%;
+    border-radius: 25px;
 }
 
 /* media queries */
